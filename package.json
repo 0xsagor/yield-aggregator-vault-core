@@ -1,0 +1,11 @@
+{
+  "name": "yield-aggregator-vault-core",
+  "version": "1.0.0",
+  "description": "DeFi Yield Optimization Vault",
+  "dependencies": {
+    "@openzeppelin/contracts": "^5.0.1"
+  },
+  "devDependencies": {
+    "hardhat": "^2.19.4"
+  }
+}
